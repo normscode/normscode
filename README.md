@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **norms1430@gmail.com**
 
-- 📄 Know about my experiences [](comingsoon)
+- 📄 Know about my experiences [coming soon...](comingsoon)
 
 <!--
 **normscode/normscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
