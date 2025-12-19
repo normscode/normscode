@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Norman Azares</h1>
+<h3 align="center">I am a Junior Fullstack Engineer from Masbate City</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/normscode?tab=repositories](https://github.com/normscode?tab=repositories)
+
+- 📫 How to reach me **norms1430@gmail.com**
+
+- 📄 Know about my experiences [](comingsoon)
 
 <!--
 **normscode/normscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
