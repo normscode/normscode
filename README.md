@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/normscode?tab=repositories](https://github.com/normscode?tab=repositories)
 
-- 📫 How to reach me **norms1430@gmail.com**
+- 📫 How to reach me **azares.norman.ccs@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1exJsYskcq-JeK2aMOO3Lyt9DfEziA5xB/view?usp=sharing](https://drive.google.com/file/d/1exJsYskcq-JeK2aMOO3Lyt9DfEziA5xB/view?usp=sharing)
 
