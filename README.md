@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dev.norms@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y0lqDInKDGw6ea3HsHkLhuv-LkBRPvSR/view?usp=sharing](https://drive.google.com/file/d/1y0lqDInKDGw6ea3HsHkLhuv-LkBRPvSR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15fEzWe8pQuDmpMbeM96Ml5Luv8HUa18e/view?usp=sharing](https://drive.google.com/file/d/15fEzWe8pQuDmpMbeM96Ml5Luv8HUa18e/view?usp=sharing)
 
 <!--
 **normscode/normscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
