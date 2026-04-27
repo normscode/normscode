@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Norman Azares</h1>
-<h3 align="center">I am a Junior Fullstack Engineer from Masbate City</h3>
+<h3 align="center">I am a software developer from Masbate City</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/normscode?tab=repositories](https://github.com/normscode?tab=repositories)
 
